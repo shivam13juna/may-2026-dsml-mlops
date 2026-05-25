@@ -1,1 +1,1 @@
-# This repo contains code for entire MLOPS module. 
+# This repo contains code for entire MLOPS module - main
