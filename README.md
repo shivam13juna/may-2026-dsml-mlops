@@ -1,3 +1,1 @@
-# This repo contains code for entire MLOPS module. 
-
-Commit coming from v2
+# This repo contains code for entire MLOPS module - main
