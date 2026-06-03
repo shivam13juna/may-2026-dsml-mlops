@@ -61,8 +61,8 @@ def index():
 </head>
 <body>
   <div class="content">
-	<div class="title">Welcome to Docker Session!</div>
-	<div class="subtitle">Let's learn how to use Docker!!.</div>
+	<div class="title">Welcome to AWS ECS Session!</div>
+	<div class="subtitle">Let's learn how to use AWS ECS!!.</div>
   </div>
 </body>
 </html>
