@@ -1,4 +1,4 @@
-from base_file import add, subtract, multiply, divide
+from session_6_CI.base_file import add, subtract, multiply, divide
 
 
 def test_add():
