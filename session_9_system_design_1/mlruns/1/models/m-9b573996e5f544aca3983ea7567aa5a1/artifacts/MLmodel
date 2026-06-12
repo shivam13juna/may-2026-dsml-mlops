@@ -1,0 +1,23 @@
+artifact_path: /Users/shivam13juna/Documents/scaler/mlops/may_2026/may-2026-dsml-mlops/session_9_system_design_1/mlruns/1/models/m-9b573996e5f544aca3983ea7567aa5a1/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.13.0
+model_id: m-9b573996e5f544aca3983ea7567aa5a1
+model_size_bytes: 3605514
+model_uuid: m-9b573996e5f544aca3983ea7567aa5a1
+prompts: null
+run_id: 2eba76de304d461d9cde21cbebaa65b3
+utc_time_created: '2026-06-12 02:47:39.583806'
