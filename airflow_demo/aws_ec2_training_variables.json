@@ -1,0 +1,14 @@
+{
+  "aws_region": "ap-south-1",
+  "training_data_bucket": "my-ml-data-bucket",
+  "training_data_key": "raw/iris.csv",
+  "model_bucket": "my-ml-models-bucket",
+  "model_key": "models/iris_rf.pkl",
+  "ec2_ami_id": "ami-0123456789abcdef0",
+  "ec2_instance_type": "m5.xlarge",
+  "ec2_key_name": "my-ec2-keypair",
+  "ec2_security_group_ids": ["sg-0123456789abcdef0"],
+  "ec2_subnet_id": "subnet-0123456789abcdef0",
+  "ec2_ssh_user": "ubuntu",
+  "ec2_ssh_key_file": "/Users/shivam13juna/.ssh/my-ec2-keypair.pem"
+}
